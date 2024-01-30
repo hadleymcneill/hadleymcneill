@@ -1,7 +1,7 @@
-- • 👋 Hi, I’m @hadleymcneill
-• Astronautical Engineering Masters
-• I like data and what it can do
-• I also like travelling, music, and boxing
+- 👋 Hi, I’m @hadleymcneill
+- Astronautical Engineering Masters
+- I like data and what it can do
+- I also like travelling, music, and boxing
 
 
 
