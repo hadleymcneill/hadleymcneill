@@ -1,5 +1,5 @@
 - @hadleymcneill
-- Astronautical Engineering Masters
+- Engineering Masters
 
 
 
