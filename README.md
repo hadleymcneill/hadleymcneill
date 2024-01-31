@@ -1,5 +1,4 @@
-- @hadleymcneill
-- Engineering Masters
+- Engineer
 
 
 
