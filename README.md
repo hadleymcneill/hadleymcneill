@@ -1,5 +1,4 @@
 - @hadleymcneill
-- Engineer / Data Analyst
 - Master of Astronautical Engineering
 
 
