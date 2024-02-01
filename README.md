@@ -1,5 +1,5 @@
 - @hadleymcneill
-- Welcome to my profile, look around at my data and engineering projects
+- Engineer / Data Analyst
 
 
 
